@@ -566,5 +566,5 @@ export const PLUGINS = [
   { name: "Search Chat", path: Path.SearchChat },
 ];
 
-export const SAAS_CHAT_URL = "https://nextchat.dev/chat";
+export const SAAS_CHAT_URL = "https://www.5yang.cc";
 export const SAAS_CHAT_UTM_URL = "https://www.5yang.cc";
