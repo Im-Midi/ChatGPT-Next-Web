@@ -9,6 +9,11 @@ const en: LocaleType = {
   WIP: "Coming Soon...",
   Error: {
     Unauthorized: isApp
+      ? `😆 Oops, there's an issue. No worries:
+     \\ 1️⃣ New here? [Click to start chatting now 🚀]
+     \\ 2️⃣ Want to use your own OpenAI resources? [Click here](/#/settings) to change settings ⚙️`
+      : `😆 Oops, there's an issue. Let's fix it:
+     \ 1️⃣ New here? [Click to start chatting now 🚀]
      \ 2️⃣ Using a private setup? [Click here](/#/auth) to enter your key 🔑
      \ 3️⃣ Want to use your own OpenAI resources? [Click here](/#/settings) to change settings ⚙️
      `,
